@@ -1,6 +1,6 @@
 # simpleloginsystem
-Simplae login system 
-Go to xamp 
-open htdocs
-Copy the file to your htdocs folder 
-No need of anydatabase as it is created by simple JSON.
+Simple login system 
+1. Go to xamp 
+2. open htdocs
+3. Copy the file to your htdocs folder 
+4. No need of anydatabase as it is created by simple JSON.
